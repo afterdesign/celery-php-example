@@ -1,0 +1,9 @@
+{
+    "name": "celery-php-test",
+    "description": "Package for redis to test celery and php integration",
+    "license": "MIT",
+    "require-dev": {
+        "predis/predis": "0.8.*"
+    },
+    "minimum-stability": "dev"
+}
