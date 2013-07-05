@@ -3,8 +3,9 @@ I'm going to write a post/tip on coderwall about this so I need some code to sho
 
 ## What you need to run this:
 1. celery ```pip install celery-with-redis```
-2. predis ```composer install```
-3. redis
+2. requests ```pip install requests```
+3. predis ```composer install```
+4. redis
 
 ## How to run this ?
 1. run celery: ```celery worker --app=github```
